@@ -10,3 +10,12 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+
+# Vim swap files
+.*.swp
+
+# Go binary install directory
+bin/
+
+# MacOS folder metadata
+.DS_Store
